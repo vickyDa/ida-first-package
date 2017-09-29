@@ -1,0 +1,23 @@
+{
+  "name": "ida-first-package",
+  "version": "1.0.0",
+  "description": "first test package npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node display-the-date.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vickyDa/ida-first-package.git"
+  },
+  "keywords": [
+    "pow"
+  ],
+  "author": "vickygnint@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vickyDa/ida-first-package/issues"
+  },
+  "homepage": "https://github.com/vickyDa/ida-first-package#readme"
+}
